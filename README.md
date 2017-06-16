@@ -1,2 +1,2 @@
 # SQLZoo-Solutions
-Solutions to SQLZoo problems
+Solutions to SQLZoo problems.
