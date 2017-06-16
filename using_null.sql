@@ -27,6 +27,7 @@ FROM teacher RIGHT JOIN dept
 SELECT name,
     COALESCE(mobile,'07986 444 2266')
 FROM teacher
+
 /* 6). Use the COALESCE function and a LEFT JOIN to print the teacher name and department name. 
        Use the string 'None' where there is no department. */
        
